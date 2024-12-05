@@ -45,7 +45,7 @@ const COURSE_CATEGORIES: Record<string, CourseCategory> = {
         title: 'Data Engineering with Spark',
         provider: 'Coursera',
         skillsCovered: ['Spark', 'PySpark', 'Data Processing', 'ETL'],
-        url: 'https://www.coursera.org/learn/spark-data-engineering',
+        url: 'https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam',
         level: 'Advanced',
         duration: '10 weeks',
         description: 'Build scalable data pipelines with Apache Spark.'
@@ -54,7 +54,7 @@ const COURSE_CATEGORIES: Record<string, CourseCategory> = {
         title: 'AWS Data Engineering',
         provider: 'Coursera',
         skillsCovered: ['AWS', 'ETL', 'Data Lakes', 'Data Warehousing'],
-        url: 'https://www.coursera.org/learn/aws-data-engineering',
+        url: 'https://www.coursera.org/learn/introduction-to-designing-data-lakes-in-aws',
         level: 'Advanced',
         duration: '12 weeks',
         description: 'Master data engineering on AWS platform.'
@@ -63,7 +63,7 @@ const COURSE_CATEGORIES: Record<string, CourseCategory> = {
         title: 'Apache Airflow Fundamentals',
         provider: 'Udemy',
         skillsCovered: ['Airflow', 'DAGs', 'Pipeline Orchestration', 'Python'],
-        url: 'https://www.udemy.com/course/apache-airflow-fundamentals',
+        url: 'https://www.udemy.com/courses/search/?src=ukw&q=apache-airflow-fundamentals',
         level: 'Intermediate',
         duration: '8 weeks',
         description: 'Learn data pipeline orchestration with Airflow.'
@@ -77,7 +77,7 @@ const COURSE_CATEGORIES: Record<string, CourseCategory> = {
         title: 'Advanced React Patterns',
         provider: 'Udemy',
         skillsCovered: ['React', 'TypeScript', 'Performance', 'State Management'],
-        url: 'https://www.udemy.com/course/advanced-react-patterns',
+        url: 'https://www.udemy.com/courses/search/?src=ukw&q=advanced-react-patterns',
         level: 'Advanced',
         duration: '8 weeks',
         description: 'Master advanced React patterns and concepts.'
@@ -95,7 +95,7 @@ const COURSE_CATEGORIES: Record<string, CourseCategory> = {
         title: 'TypeScript Masterclass',
         provider: 'Udemy',
         skillsCovered: ['TypeScript', 'Type System', 'Advanced Types', 'Best Practices'],
-        url: 'https://www.udemy.com/course/typescript-masterclass',
+        url: 'https://www.udemy.com/course/typescript-react-js-course-with-react-typescript-project/',
         level: 'Advanced',
         duration: '6 weeks',
         description: 'Master TypeScript for large-scale applications.'
@@ -109,7 +109,7 @@ const COURSE_CATEGORIES: Record<string, CourseCategory> = {
         title: 'Node.js Advanced Concepts',
         provider: 'Udemy',
         skillsCovered: ['Node.js', 'Performance', 'Security', 'Architecture'],
-        url: 'https://www.udemy.com/course/advanced-node',
+        url: 'https://www.udemy.com/course/advanced-node-for-developers/',
         level: 'Advanced',
         duration: '12 weeks',
         description: 'Master advanced Node.js concepts and patterns.'
@@ -118,7 +118,7 @@ const COURSE_CATEGORIES: Record<string, CourseCategory> = {
         title: 'API Design in Node.js',
         provider: 'Coursera',
         skillsCovered: ['API Design', 'REST', 'GraphQL', 'Security'],
-        url: 'https://www.coursera.org/learn/api-design',
+        url: 'https://www.coursera.org/specializations/apigee-api-gcp',
         level: 'Advanced',
         duration: '8 weeks',
         description: 'Learn professional API design and implementation.'
@@ -150,7 +150,7 @@ const COURSE_CATEGORIES: Record<string, CourseCategory> = {
         title: 'Java Testing Masterclass',
         provider: 'Udemy',
         skillsCovered: ['JUnit', 'Mockito', 'TDD', 'Integration Testing'],
-        url: 'https://www.udemy.com/course/testing-java',
+        url: 'https://www.udemy.com/course/java-se-programming/',
         level: 'Advanced',
         duration: '8 weeks',
         description: 'Comprehensive testing strategies for Java applications.'
@@ -159,7 +159,7 @@ const COURSE_CATEGORIES: Record<string, CourseCategory> = {
         title: 'Java Microservices',
         provider: 'Coursera',
         skillsCovered: ['Microservices', 'Spring Cloud', 'Docker', 'Kubernetes'],
-        url: 'https://www.coursera.org/learn/java-microservices',
+        url: 'https://coursera.org/search?query=java%20microservices',
         level: 'Advanced',
         duration: '10 weeks',
         description: 'Build scalable microservices with Spring Cloud.'
